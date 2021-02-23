@@ -27,3 +27,5 @@
 
 ## 설치 방법
 * [Release 페이지](https://github.com/sokcuri/NaraeChat/releases)에서 jar 파일을 다운받고 마인크래프트 데이터 폴더(Windows는 %appdata%\\.minecraft, Linux는 ~/.minecraft) 아래에 있는 mods 폴더에 파일을 넣어주세요
+
+dasdfsadf
